@@ -8,4 +8,5 @@
     <string name="e_status_403">Forbidden access. Type another url!</string>
     <string name="e_status">Status exception: </string>
     <string name="e_unsupported">Unsupported link! Type correct one!</string>
+    <string name="url_example">http://mysite.com</string>
 </resources>
