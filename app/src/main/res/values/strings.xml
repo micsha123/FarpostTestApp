@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">FarpostTestApp</string>
+    <string name="get_links">Get links</string>
+
+    <string name="e_timeout">Timeout connection. Try again!</string>
+    <string name="e_host">Some trouble with connection. Please, switch on Internet!</string>
+    <string name="e_status_404">No such page here. Type another url!</string>
+    <string name="e_status_403">Forbidden access. Type another url!</string>
+    <string name="e_status">Status exception: </string>
+    <string name="e_unsupported">Unsupported link! Type correct one!</string>
+</resources>

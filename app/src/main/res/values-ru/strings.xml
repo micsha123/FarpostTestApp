@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarpostTestApp</string>
+    <string name="e_host">Проблемы с подключением. Пожалуйста, включите Интернет!</string>
+    <string name="e_status">Статус-ошибка: </string>
+    <string name="get_links">Получить ссылки</string>
+    <string name="e_unsupported">Не поддерживаемый тип! Введите корректную ссылку!</string>
+    <string name="e_timeout">Таймаут подключения. Повторите попытку позже!</string>
+    <string name="e_status_404">Отсутствует заданная страница. Введите адрес другой!</string>
+    <string name="e_status_403">Доступ отказан! Введите адрес другой страницы!</string>
+</resources>
